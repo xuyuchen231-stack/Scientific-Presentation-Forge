@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scientific Presentation Forge"
+  short_description: "Evidence-grounded editable research presentations"
+  default_prompt: "Use $scientific-presentation-forge to create an editable scientific PPTX from my papers and data, then inspect every slide."
